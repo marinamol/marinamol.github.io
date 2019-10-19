@@ -12,5 +12,9 @@
 
 [Урок 14](https://marinamol.github.io/lesson_14/ "Урок 14") - верстка шапки
 
+[Урок 14_2](https://marinamol.github.io/lesson_14_2/ "Урок 14_2") - подключение шрифтов
+
+
+
 
 
