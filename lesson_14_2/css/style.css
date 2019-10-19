@@ -24,6 +24,18 @@
 .text-box{
 	padding-top: 2rem;
 }
+.f1 {
+	font-family:'Open Sans';
+}
+.f2 {
+	font-family:'Bebas Neue';
+}
+.f3 {
+	font-family:'Lato';
+}
+.f4 {
+	font-family:'Lobster';
+}
 .result {
 	margin-bottom: 0;
 	margin-top: 3rem;
