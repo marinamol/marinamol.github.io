@@ -41,30 +41,7 @@
 	margin-top: 3rem;
 	
 }
-.result1 {
-	margin-bottom: 0;
-	margin-top: 3rem;
-	font-family:'Open Sans';
-	
-}
-.result2 {
-	margin-bottom: 0;
-	margin-top: 3rem;
-	font-family:'Bebas Neue';
-	
-}
-.font_Bebas {
-	font-family:'Bebas Neue';
-}
-.font_OpenSans {
-	font-family:'Open Sans';
-}
-.font_Lobster {
-	font-family:'Lobster';
-}
-.font_Lato {
-	font-family:'Lato';
-}
+
 .fonts {
 	font-size: 2rem;
 	text-align: center;
