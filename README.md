@@ -16,6 +16,8 @@
 
 [Урок 15](https://marinamol.github.io/lesson_15/ "Урок 15") - первый экран
 
+[Урок 15_2](https://marinamol.github.io/lesson_15_2/ "Урок 15_2") - эффекты наведения
+
 
 
 
