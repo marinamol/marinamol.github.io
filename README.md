@@ -20,6 +20,8 @@
 
 [Урок 15_3](https://marinamol.github.io/lesson_15_3/ "Урок 15_3") - адатив первого экрана
 
+[Урок 16](https://marinamol.github.io/lesson_16/ "Урок 16") - слайдер
+
 
 
 
