@@ -18,6 +18,8 @@
 
 [Урок 15_2](https://marinamol.github.io/lesson_15_2/ "Урок 15_2") - эффекты наведения
 
+[Урок 15_3](https://marinamol.github.io/lesson_15_3/ "Урок 15_3") - адатив первого экрана
+
 
 
 
