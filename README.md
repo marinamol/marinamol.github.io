@@ -22,6 +22,8 @@
 
 [Урок 16](https://marinamol.github.io/lesson_16/ "Урок 16") - слайдер
 
+[Урок 16_2](https://marinamol.github.io/lesson_16_2/ "Урок 16_2") - слайдер
+
 
 
 
