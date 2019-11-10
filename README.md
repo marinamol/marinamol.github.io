@@ -24,6 +24,8 @@
 
 [Урок 16_2](https://marinamol.github.io/lesson_16_2/ "Урок 16_2") - слайдер
 
+[Урок 17](https://marinamol.github.io/lesson_17/ "Урок 17") - попап окно
+
 
 
 
