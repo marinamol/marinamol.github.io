@@ -32,7 +32,6 @@
 
 [Урок 18_3](https://marinamol.github.io/lesson_18_3/ "Урок 18_3") - пример аккардеона
 
-
-
+[Урок 18_4](https://marinamol.github.io/lesson_18_4/ "Урок 18_4") - блок с ценами
 
 
