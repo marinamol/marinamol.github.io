@@ -30,7 +30,7 @@
 
 [Урок 18_2](https://marinamol.github.io/lesson_18_2/ "Урок 18_2") - пример таба
 
-[Урок 18_3](https://marinamol.github.io/lesson_18_3/ "Урок 18_3") - пимер аккардеона
+[Урок 18_3](https://marinamol.github.io/lesson_18_3/ "Урок 18_3") - пример аккардеона
 
 
 
