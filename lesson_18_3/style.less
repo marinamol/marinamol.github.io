@@ -1,0 +1,80 @@
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('fonts/Ubuntu.eot');
+    src: url('fonts/Ubuntu.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Ubuntu.woff2') format('woff2'),
+        url('fonts/Ubuntu.woff') format('woff'),
+        url('fonts/Ubuntu.ttf') format('truetype'),
+        url('fonts/Ubuntu.svg#Ubuntu') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@blue: #0bbaf0;
+@light:#fff;
+body {
+	font-family: 'Ubuntu',sans-serif,;
+	margin:0;
+	padding: 0;
+	
+	background: url(img/bg.png) ;
+	background-size: 100%;
+	
+}
+a {
+	
+}
+a:hover {
+	text-decoration: none;
+}
+button, input,a, textarea {
+	&:focus {
+		outline: none;
+	}
+}
+.container {
+	width: 860px;
+	text-align: center;
+}
+
+.header { 
+	text-transform: uppercase;
+  	color: @blue;
+  	text-transform: uppercase;
+}
+h1 {
+  font-weight: 900;
+}
+p {
+  font-size: 24px;
+}
+.panel-body {
+  font-size: 22px;
+  text-align: left;
+  padding: 10px 60px 45px 30px;
+  border-radius:5px;
+  color: #535353;
+
+}
+.panel-title {
+  background-color: @blue;
+  font-size: 23.2px;
+}
+.panel-heading {
+  background-color: @blue;
+  color: @light;
+}
+.h4 {
+  background-color: @blue;
+}
+.panel-default>.panel-heading {
+  	  color: @light;
+    background-color: #0bbaf0;
+    border-color: #ddd;
+    border-radius: 5px;
+    margin: 0 -10px;
+}
+.panel-group .panel+.panel {
+    margin-top: -2px;
+
+}
