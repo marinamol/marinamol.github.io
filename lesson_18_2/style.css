@@ -1,0 +1,109 @@
+@font-face {
+  font-family: 'MyriadPro';
+  src: url('fonts/MyriadPro-Regular.eot');
+  src: url('fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'), url('fonts/MyriadPro-Regular.woff2') format('woff2'), url('fonts/MyriadPro-Regular.woff') format('woff'), url('fonts/MyriadPro-Regular.ttf') format('truetype'), url('fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: url(img/bg1.png);
+  background-size: 100%;
+  font-family: 'MyriadPro', sans-serif;
+}
+a {
+  color: #080808;
+  background-color: #ffffff;
+}
+a:hover {
+  text-decoration: none;
+}
+button:focus,
+input:focus,
+a:focus,
+textarea:focus {
+  outline: none;
+}
+.container {
+  text-align: center;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus {
+  color: #fff;
+  background-color: #03a5da;
+}
+.form {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  width: 630px;
+  margin: 0 auto;
+}
+.form-block {
+  background-color: #000;
+  padding: 50px 70px 25px 40px;
+  border: 20px solid #03a5da;
+  border-radius: 8px;
+}
+.form-nav {
+  font-size: 24px;
+  color: #ffffff;
+}
+.form-input {
+  display: block;
+  background: url(img/bg_input.png);
+  background-size: cover;
+  width: 100%;
+  font-size: 24px;
+  color: #ffffff;
+  padding: 15px 25px;
+  border: none;
+  margin: 20px 0;
+  border-radius: 4px;
+}
+.form-link-password {
+  text-align: left;
+  padding: 0 30px;
+}
+.form-a-link {
+  color: #761302;
+  font-size: 15px;
+  background-color: #000;
+}
+.form-check-label {
+  text-align: left;
+  margin: 45px 0 0 0;
+}
+.form-submit {
+  position: relative;
+  text-align: right;
+  left: 0;
+  bottom: 0;
+}
+.form-submit-link {
+  background-color: #761302;
+  border: none;
+  color: #ffffff;
+  font-size: 24px;
+  right: -100px;
+  bottom: -15px;
+  padding: 5px 35px 0 25px;
+  position: absolute;
+}
+input::-webkit-input-placeholder {
+  color: #fff;
+}
+ul {
+  margin-block-start: 20px;
+}
+.nav > li {
+  left: 25px;
+}
+.nav > li > a {
+  padding: 0px 25px 0px 25px;
+}
+.nav-tabs > li > a {
+  margin-right: 10px;
+}
