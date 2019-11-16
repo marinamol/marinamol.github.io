@@ -34,4 +34,6 @@
 
 [Урок 18_4](https://marinamol.github.io/lesson_18_4/ "Урок 18_4") - блок с ценами
 
+[Урок 19](https://marinamol.github.io/lesson_19/ "Урок 19") - анимация блока с ценами
+
 
