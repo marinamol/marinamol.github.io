@@ -36,4 +36,6 @@
 
 [Урок 19](https://marinamol.github.io/lesson_19/ "Урок 19") - анимация блока с ценами
 
+[Урок 19_2](https://marinamol.github.io/lesson_19_2/ "Урок 19_2") - блок с отзывами
+
 
