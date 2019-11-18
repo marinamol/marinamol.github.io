@@ -42,4 +42,6 @@
 
 [Урок 20_1](https://marinamol.github.io/lesson_20_1/ "Урок 20_1") - пример с видеофоном
 
+[Урок 21](https://marinamol.github.io/lesson_21/ "Урок 21") - parallax и rellax
+
 
