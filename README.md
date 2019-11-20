@@ -44,4 +44,6 @@
 
 [Урок 21](https://marinamol.github.io/lesson_21/ "Урок 21") - parallax и rellax
 
+[Урок 21_1](https://marinamol.github.io/lesson_21_1/ "Урок 21_1") - схема работы и все включено
+
 
