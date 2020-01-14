@@ -48,5 +48,5 @@
 
 [Урок 22](https://marinamol.github.io/lesson_22/ "Урок 22") - пример карты
 
-[Урок 22_1](https://marinamol.github.io/lesson_22/ "Урок 22_1") - добавление блока проблемы 
+[Урок 22_1](https://marinamol.github.io/lesson_22_1/ "Урок 22_1") - добавление блока проблемы 
 
